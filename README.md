@@ -7,3 +7,6 @@ Tested working on iPhone XR running iOS 13 and using the XCode Simulator on iPho
 
 Team: Gurudutt Perichetla, Joshua Galang, Niharika Mathur
 
+Screenshots:
+[Login](login.png)
+[Chat Screen](chat.png)
